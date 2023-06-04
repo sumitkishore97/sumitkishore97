@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sumitkishore97
-- 👀 I’m interested in ... Java, Html and Javascript
-- 🌱 I’m currently learning ... Java, and Javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Sql Server and Power BI
+- 🌱 I’m currently learning ... Power BI
+- 💞️ I’m looking to collaborate on ... Power BI
 - 📫 How to reach me ... Email id: sumitkishore97@gmail.com
 
 <!---
